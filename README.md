@@ -1,2 +1,2 @@
 # Identify-Fraud-from-Enron-dataset
-s
+Detailed processes were documented in IdentifyFraudfromEnrondataset.pdf.
